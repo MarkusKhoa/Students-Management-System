@@ -1,0 +1,10 @@
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\QuanLySV.Form1.resources
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\GUI.exe
+F:\Visual Programming\18520930_TH5\GUI\obj\Debug\GUI.pdb
+F:\Visual Programming\18520930_TH5\GUI\bin\Debug\GUI.exe.config
+F:\Visual Programming\18520930_TH5\GUI\bin\Debug\GUI.exe
+F:\Visual Programming\18520930_TH5\GUI\bin\Debug\GUI.pdb
